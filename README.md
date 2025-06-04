@@ -1,0 +1,1 @@
+[![Version](https://img.shields.io/badge/version-1.8-blue.svg)](https://github.com/PeterJBurke/WebGCS/releases/tag/v1.8) 
